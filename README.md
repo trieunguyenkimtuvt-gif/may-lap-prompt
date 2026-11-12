@@ -7,7 +7,8 @@ Trang dùng: https://trieunguyenkimtuvt-gif.github.io/may-lap-prompt/
 | File | Nội dung |
 |---|---|
 | `index.html` | Trang chính v2.1: liên kết nhanh (E-mail · E-office · Oracle ERP · Danh bạ · XNDV 360°), nút Góp ý, **Công cụ hỗ trợ CNK**, **Lắp prompt cho AI** (11 mẫu, 4 nhóm) |
-| `cong-cu/doi_soat_ma_vat_tu_tra_cuu_v0.2.html` | Công cụ Đối soát – Mã vật tư (bản phát hành) |
+| `cong-cu/doi_soat_ma_vat_tu_tra_cuu_v0.3.html` | Công cụ Đối soát – Mã vật tư (bản phát hành) |
+| `cong-cu/doi_soat_ma_vat_tu_tra_cuu_v0.2.html` | Trang chuyển tiếp sang v0.3 (giữ cho link cũ không hỏng) |
 | `qr-vsp.html` | Tạo mã QR mang logo VSP cho link chia sẻ |
 
 Mọi công cụ chạy ngay trên trình duyệt; dữ liệu không gửi đi đâu.
